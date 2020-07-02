@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b65daffd-a4cb-4a0e-bb8b-b2b050a5d053" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/abstractfactory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/abstractfactory/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/abstractfactory/AnimalFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/abstractfactory/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/abstractfactory/BirdFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/abstractfactory/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/abstractfactory/Crow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/abstractfactory/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/abstractfactory/FactoryProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/abstractfactory/Parrot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/adapter/Ferrari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/adapter/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/adapter/MovableAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/adapter/MovableAdapterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/adapter/TestAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/adapter/adapter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/adapter/adapter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/diffblue/interview/CodeAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/diffblue/interview/CodeClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/diffblue/interview/CodeExtractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/diffblue/interview/CodeLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/diffblue/interview/CodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/diffblue/interview/implementation/CodeAnalyzerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/diffblue/interview/implementation/CodeClassImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/diffblue/interview/implementation/CodeLineImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/diffblue/interview/implementation/CodeTestImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sampleFiles/CreateJasper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sampleFiles/JunitTestExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sampleFiles/TestSuiteExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b65daffd-a4cb-4a0e-bb8b-b2b050a5d053" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,25 +189,25 @@
     </state>
     <state x="841" y="594" width="353" height="439" key="#com.intellij.ide.util.MemberChooser/1920.0.2560.1440/0.264.1920.1080@0.264.1920.1080" timestamp="1593687491031" />
     <state x="3041" y="440" width="374" height="585" key="#com.intellij.ide.util.MemberChooser/1920.0.2560.1440/0.264.1920.1080@1920.0.2560.1440" timestamp="1593539662178" />
-    <state width="1874" height="389" key="GridCell.Tab.0.bottom" timestamp="1593683240970">
+    <state width="1874" height="389" key="GridCell.Tab.0.bottom" timestamp="1593691794636">
       <screen x="0" y="264" width="1920" height="1080" />
     </state>
-    <state width="1874" height="389" key="GridCell.Tab.0.bottom/1920.0.2560.1440/0.264.1920.1080@0.264.1920.1080" timestamp="1593683240970" />
+    <state width="1874" height="389" key="GridCell.Tab.0.bottom/1920.0.2560.1440/0.264.1920.1080@0.264.1920.1080" timestamp="1593691794636" />
     <state width="2447" height="389" key="GridCell.Tab.0.bottom/1920.0.2560.1440/0.264.1920.1080@1920.0.2560.1440" timestamp="1593545057578" />
-    <state width="1874" height="389" key="GridCell.Tab.0.center" timestamp="1593683240970">
+    <state width="1874" height="389" key="GridCell.Tab.0.center" timestamp="1593691794635">
       <screen x="0" y="264" width="1920" height="1080" />
     </state>
-    <state width="1874" height="389" key="GridCell.Tab.0.center/1920.0.2560.1440/0.264.1920.1080@0.264.1920.1080" timestamp="1593683240970" />
+    <state width="1874" height="389" key="GridCell.Tab.0.center/1920.0.2560.1440/0.264.1920.1080@0.264.1920.1080" timestamp="1593691794635" />
     <state width="2447" height="389" key="GridCell.Tab.0.center/1920.0.2560.1440/0.264.1920.1080@1920.0.2560.1440" timestamp="1593545057578" />
-    <state width="1874" height="389" key="GridCell.Tab.0.left" timestamp="1593683240970">
+    <state width="1874" height="389" key="GridCell.Tab.0.left" timestamp="1593691794635">
       <screen x="0" y="264" width="1920" height="1080" />
     </state>
-    <state width="1874" height="389" key="GridCell.Tab.0.left/1920.0.2560.1440/0.264.1920.1080@0.264.1920.1080" timestamp="1593683240970" />
+    <state width="1874" height="389" key="GridCell.Tab.0.left/1920.0.2560.1440/0.264.1920.1080@0.264.1920.1080" timestamp="1593691794635" />
     <state width="2447" height="389" key="GridCell.Tab.0.left/1920.0.2560.1440/0.264.1920.1080@1920.0.2560.1440" timestamp="1593545057578" />
-    <state width="1874" height="389" key="GridCell.Tab.0.right" timestamp="1593683240970">
+    <state width="1874" height="389" key="GridCell.Tab.0.right" timestamp="1593691794635">
       <screen x="0" y="264" width="1920" height="1080" />
     </state>
-    <state width="1874" height="389" key="GridCell.Tab.0.right/1920.0.2560.1440/0.264.1920.1080@0.264.1920.1080" timestamp="1593683240970" />
+    <state width="1874" height="389" key="GridCell.Tab.0.right/1920.0.2560.1440/0.264.1920.1080@0.264.1920.1080" timestamp="1593691794635" />
     <state width="2447" height="389" key="GridCell.Tab.0.right/1920.0.2560.1440/0.264.1920.1080@1920.0.2560.1440" timestamp="1593545057578" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
