@@ -1,0 +1,9 @@
+BRIDGE PATTERN
+
+https://www.baeldung.com/java-bridge-pattern
+
+Bridge design pattern introduced by Gang of Four (GoF) is to decouple an abstraction from
+its implementation so that the two can vary independently.
+
+This means to create a bridge interface that uses OOP principles to separate out
+responsibilities into different abstract classes.

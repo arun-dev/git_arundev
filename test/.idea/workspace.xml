@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b65daffd-a4cb-4a0e-bb8b-b2b050a5d053" name="Default Changelist" comment="" />
+    <list default="true" id="b65daffd-a4cb-4a0e-bb8b-b2b050a5d053" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/bridge/Blue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/bridge/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/bridge/Red.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/bridge/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/bridge/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/bridge/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/bridge/bridge.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/bridge/bridge.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +115,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556967959206" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/designpatterns/adapter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/designpatterns/bridge" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -113,6 +123,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/designpatterns/bridge" />
       <recent name="$PROJECT_DIR$/src/main/java/com/designpatterns/adapter" />
       <recent name="$PROJECT_DIR$/src/sampleFiles" />
       <recent name="$PROJECT_DIR$/src/main/java/com/diffblue/interview" />
@@ -184,10 +195,10 @@
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state x="2918" y="534" width="654" height="396" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.2560.1440/0.264.1920.1080@1920.0.2560.1440" timestamp="1593545527963" />
-    <state x="841" y="594" width="353" height="439" key="#com.intellij.ide.util.MemberChooser" timestamp="1593687491031">
+    <state x="841" y="594" width="353" height="439" key="#com.intellij.ide.util.MemberChooser" timestamp="1593711123547">
       <screen x="0" y="264" width="1920" height="1080" />
     </state>
-    <state x="841" y="594" width="353" height="439" key="#com.intellij.ide.util.MemberChooser/1920.0.2560.1440/0.264.1920.1080@0.264.1920.1080" timestamp="1593687491031" />
+    <state x="841" y="594" width="353" height="439" key="#com.intellij.ide.util.MemberChooser/1920.0.2560.1440/0.264.1920.1080@0.264.1920.1080" timestamp="1593711123547" />
     <state x="3041" y="440" width="374" height="585" key="#com.intellij.ide.util.MemberChooser/1920.0.2560.1440/0.264.1920.1080@1920.0.2560.1440" timestamp="1593539662178" />
     <state width="1874" height="389" key="GridCell.Tab.0.bottom" timestamp="1593691794636">
       <screen x="0" y="264" width="1920" height="1080" />
