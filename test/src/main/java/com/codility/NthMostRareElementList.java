@@ -1,4 +1,4 @@
-package com.interview.collection.hash;
+package com.codility;
 
 import java.util.*;
 import java.util.stream.Collectors;
@@ -9,6 +9,12 @@ public class NthMostRareElementList {
         int[] array = {2, 2, 2, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 16};
         //IntStream.range(0, 8).forEach(i -> System.out.println(findRarest(array, i)));
         IntStream.range(0, 1).forEach(i -> System.out.println(rare(array, i)));
+
+
+       /* Map result = map.entrySet().stream()
+                .sorted(Map.Entry.comparingByKey())
+                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue,
+                        (oldValue, newValue) -> oldValue, LinkedHashMap::new));*/
     }
 
     public static long findRarest(int[] array, int nth) {
