@@ -33,6 +33,7 @@ public class NextPositiveMissingElement {
 
     }
     public int solution(int[] A) {
+        int aa = A.length ;
         List<Integer> list = Arrays.stream(A).boxed().sorted().collect(Collectors.toList());
         Iterator it = list.iterator();
         int current =(Integer) it.next();

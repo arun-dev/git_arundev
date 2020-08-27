@@ -10,14 +10,18 @@ public class SeqVsParallelStream {
 
         System.out.println("-------\nRunning sequential\n-------");
         //run(Arrays.stream(strings).sequential());
-        System.out.println("-------\nRunning parallel\n-------");
-        run(Arrays.stream(strings).parallel());
+        //System.out.println("-------\nRunning parallel\n-------");
+        //run(Arrays.stream(strings).parallel());
+        System.out.println(6&5);
+        System.out.println(7&2);
+        System.out.println(6&4);
+        System.out.println(6&7);
     }
     public static void run (Stream<String> stream) {
 
         stream.forEach(s -> {
             System.out.println(LocalTime.now() + " - value: " + s +
-                    " - thread: " + Thread.currentThread().getName());
+                    " - thread: " + Thread.currentThread().getName()) ;
             try {
                 Thread.sleep(1000);
             } catch (InterruptedException e) {

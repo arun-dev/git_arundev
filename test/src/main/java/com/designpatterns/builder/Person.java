@@ -35,6 +35,9 @@ public class Person {
         private String name;
         private String nationality;
 
+        public Builder(){
+        }
+
         public Builder(final int age, final String name){
             this.age = age;
             this.name = name;
